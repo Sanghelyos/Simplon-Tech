@@ -1,0 +1,32 @@
+.slider-home{
+padding-right: 15%;
+padding-left: 15%;
+padding-top: 5em;
+padding-bottom: 5em;
+}
+.home-text-title{
+    background-color: #EBEBEB;
+    text-align: center;
+    padding: 3em;
+}
+.home-text-title-pri{
+    font-size: 4em;
+    color: black;
+}
+.home-text-title-sec{
+    font-size: 2em;
+    color: black;
+}
+
+.home-text-text{
+    text-align: center;
+    padding: 3em;
+}
+
+.home-text-text-pri, .home-text-text-sec, .home-text-text-ter{
+padding-left: 4em;
+padding-right: 4em;
+padding-top: 1.5em;
+padding-bottom: 1.5em;
+font-size: 2em;
+}
