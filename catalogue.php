@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet"
         charset="utf-8" />
     <script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://unpkg.com/scrollreveal"></script>
 </head>
 
 <body>
@@ -20,7 +21,7 @@
     include 'products.php';
     include 'footer.php';
     ?>
-    <!--<script src="js/scripts.js"></script>-->
+    <script src="js/reveal.js"></script>
     <script type="text/javascript" charset="utf-8">
                $(document).ready(function(){
                  $("a[rel^='prettyPhoto']").prettyPhoto({social_tools:''});

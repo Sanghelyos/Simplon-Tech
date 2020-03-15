@@ -17,7 +17,7 @@
 
     <link rel="stylesheet" type="text/css" href="revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
     <link rel="stylesheet" type="text/css" href="revolution/fonts/font-awesome/css/font-awesome.css">
-
+    <script src="https://unpkg.com/scrollreveal"></script>
     <!-- REVOLUTION STYLE SHEETS -->
     <link rel="stylesheet" type="text/css" href="revolution/css/settings.css">
     <!-- REVOLUTION LAYERS STYLES -->
@@ -33,7 +33,7 @@
     <script type="text/javascript" src="revolution/js/jquery.themepunch.revolution.min.js"></script>
 
     <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.actions.min.js"></script>
+   <!-- <script type="text/javascript" src="revolution/js/extensions/revolution.extension.actions.min.js"></script>
     <script type="text/javascript" src="revolution/js/extensions/revolution.extension.carousel.min.js"></script>
     <script type="text/javascript" src="revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
     <script type="text/javascript" src="revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
@@ -41,7 +41,7 @@
     <script type="text/javascript" src="revolution/js/extensions/revolution.extension.navigation.min.js"></script>
     <script type="text/javascript" src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
     <script type="text/javascript" src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>-->
 
 </head>
 
@@ -50,24 +50,24 @@
     include 'headernavbar.php';
     ?>
 
-    <section class="slider-home">
+    <section class="slider-home headline">
         <?php
         include 'slider.php';
         ?>
     </section>
 
     <section class="home-text">
-        <div class="home-text-title">
+        <div class="home-text-title headline">
             <p class="home-text-title-pri">Simplon Tech</p>
             <p class="home-text-title-sec">Achetez simple, achetez Simplon</p>
         </div>
         <div class="home-text-text">
-            <p class="home-text-text-pri">Depuis plusieurs années, Simplon Tech propose des gammes d’ordinateurs
+            <p class="home-text-text-pri headline">Depuis plusieurs années, Simplon Tech propose des gammes d’ordinateurs
                 destinés à tous types d’usages. Que ce soit pour jouer aux meilleurs AAA ou à la dernière bouse de
                 Bethesda.</p>
-            <p class="home-text-text-sec">Les produits de Simplon Tech ne se limitent pas au jeux, nous choisissons les
+            <p class="home-text-text-sec headline">Les produits de Simplon Tech ne se limitent pas au jeux, nous choisissons les
                 meilleurs composants pour vous permettre de travailler dans tous les milieux.</p>
-            <p class="home-text-text-ter">Nous avons tout de même ce qu’il vous faut si votre utilisation des
+            <p class="home-text-text-ter headline">Nous avons tout de même ce qu’il vous faut si votre utilisation des
                 ordinateurs se limite au traitement de texte.</p>
         </div>
 
@@ -75,7 +75,7 @@
     <?php
     include 'footer.php';
     ?>
-    <!--<script src="js/scripts.js"></script>-->
+    <script src="js/reveal.js"></script>
 </body>
 
 </html>
