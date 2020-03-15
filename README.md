@@ -1,7 +1,8 @@
 # Simplon-Tech
 Simplon-Tech
 
-Partie dev
-Contient l'accueil et le début du catalogue.
-la navbar est terminée
-La structure du footer est terminé, manque le contenu
+A finir:
+Script php d'envoi de mails (ne peut se faire en localhost)
+Pages de chaque produit (2/9)
+Corriger la google map (problème clé API)
+Media queries
