@@ -55,6 +55,13 @@ nav a {
 nav a:hover {
     background-color: #575656;
 }
+.burger-bar{
+    display: none;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 
 .nav-home-button,
 .nav-logo {
@@ -125,4 +132,8 @@ height: 50px;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: nowrap;
+}
+
+@media only screen and (max-width: 800px){
+    
 }

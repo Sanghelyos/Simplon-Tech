@@ -12,6 +12,17 @@
             <a href="contact.php">Contact</a>
         </div>
     </nav>
+    <section class="resp-nav headline">
+        <div class="nav-home-button">
+            <a href="index.php">Accueil</a>
+        </div>
+        <div class="nav-products-button">
+            <a href="catalogue.php">Produits</a>
+        </div>
+        <div class="nav-contact-button">
+            <a href="contact.php">Contact</a>
+        </div>
+        </section>
     <header>
         <section class="sub-header headline">
             <div>
