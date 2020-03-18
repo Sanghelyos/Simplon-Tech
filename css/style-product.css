@@ -33,3 +33,44 @@ font-size: 2em;
 strong{
     font-weight: bold;
 }
+
+@media only screen and (max-width: 760px){
+.product-text-title-pri{
+    font-size: 3em;
+}
+}
+@media only screen and (max-width: 640px){
+    .product-text-title-pri{
+        font-size: 2.5em;
+    }
+    .product-text-text{
+        text-align: left;
+        padding: 3em;
+        font-size: 1.3em;
+    }
+    }
+    @media only screen and (max-width: 500px){
+        .product-text-title-pri{
+            font-size: 1.8em;
+        }
+        .product-text-text{
+            text-align: left;
+            padding: 1.5em;
+            font-size: 1.3em;
+        }
+        }
+        @media only screen and (max-width: 300px){
+            .product-text-title-pri{
+                font-size: 1.8em;
+            }
+            .product-text-text{
+                text-align: left;
+                padding: 1.5em;
+            }
+            .title{
+                font-size: 1em;
+            }
+            .product-text-text li, .desc-text{
+                font-size: 0.8em;
+            }
+            }

@@ -30,3 +30,78 @@ padding-top: 1.5em;
 padding-bottom: 1.5em;
 font-size: 2em;
 }
+
+@media only screen and (max-width: 730px){
+    .slider-home{
+        padding-right: 5%;
+        padding-left: 5%;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        }
+    .home-text-text-pri, .home-text-text-sec, .home-text-text-ter{
+        padding-left: 1em;
+        padding-right: 1em;
+        font-size: 2em;
+        }
+}
+@media only screen and (max-width: 480px){
+    .slider-home{
+        padding-right: 1%;
+        padding-left: 1%;
+        }
+    .home-text-text-pri, .home-text-text-sec, .home-text-text-ter{
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        padding-top: 1.5em;
+        padding-bottom: 1.5em;
+        font-size: 1.3em;
+        }
+}
+@media only screen and (max-width: 425px){
+    .home-text-title-pri{
+        font-size: 2.5em;
+    }
+    .home-text-title-sec{
+        font-size: 1.5em;
+    }
+    .slider-home{
+        padding-right: 0%;
+        padding-left: 0%;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        }
+    
+}
+@media only screen and (max-width: 300px){
+    .home-text-title-pri{
+        font-size: 2em;
+    }
+    .home-text-title-sec{
+        font-size: 1em;
+    }
+}
+@media only screen and (max-width: 360px){
+    .slider-home{
+        padding-right: 1%;
+        padding-left: 1%;
+        }
+    .home-text-text-pri, .home-text-text-sec, .home-text-text-ter{
+        padding-left: 0.1em;
+        padding-right: 0.1em;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        font-size: 1em;
+        }
+}
+@media only screen and (max-width: 260px){
+    .home-text-title-pri{
+        font-size: 1.7em;
+    }
+    .home-text-title-sec{
+        font-size: 1em;
+    }
+}
+@media only screen and (max-width: 250px){
+
+
+}

@@ -25,8 +25,8 @@
     <section class="formulaire headline">
     <form action="contact.php">
     <div>
-    <input type="text" id="fname" name="firstname" placeholder="Prénom">
-    <div style="width:50%;"></div>
+    <input style="margin-right: 50px;" type="text" id="fname" name="firstname" placeholder="Prénom">
+
     <input type="text" id="lname" name="lastname" placeholder="Nom">
     </div>
     <input type="text" id="email" name="mail" placeholder="Adresse mail"><br>
