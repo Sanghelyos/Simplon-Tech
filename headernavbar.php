@@ -1,3 +1,4 @@
+<div class="nnav">
 <nav class="headline">
         <div class="nav-home-button">
             <a href="index.php">Accueil</a>
@@ -12,6 +13,18 @@
             <a href="contact.php">Contact</a>
         </div>
     </nav>
+    <section class="resp-nav headline">
+        <div class="">
+            <a href="index.php">Accueil</a>
+        </div>
+        <div class="">
+            <a href="catalogue.php">Produits</a>
+        </div>
+        <div class="">
+            <a href="contact.php">Contact</a>
+        </div>
+        </section>
+</div>
     <header>
         <section class="sub-header headline">
             <div>

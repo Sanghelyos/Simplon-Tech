@@ -21,24 +21,24 @@
             </a>
         </div>
         <div class="product">
-            <a rel="prettyPhoto" title="<a href='#'>Voir plus</a>" href="img/products-preview/raw.jpeg">
-                <img alt="ASUS ROGUE POURRI" src="img/products-preview/raw-mini.jpeg" />
+            <a rel="prettyPhoto" title="<a href='#'>Voir plus</a>" href="img/products/3/1.png">
+                <img alt="MSI GF63 Thin 9RCX-664XFR" src="img/products/3/1.png" />
             </a>
-            <p class="product-name">ASUS ROGUE POURRI</p>
-            <p class="product-price">99,99€</p>
-            <a class="see-more-button" href="">
+            <p class="product-name">MSI GF63 Thin 9RCX-664XFR</p>
+            <p class="product-price">799,94€</p>
+            <a class="see-more-button" href="products-pages/product-3.php">
                 <p>VOIR PLUS</p>
             </a>
         </div>
 </div>
 <div class="products-list-2 headline">
         <div class="product">
-            <a rel="prettyPhoto" title="<a href='#'>Voir plus</a>" href="img/products-preview/raw.jpeg">
-                <img alt="ASUS ROGUE POURRI" src="img/products-preview/raw-mini.jpeg" />
+            <a rel="prettyPhoto" title="<a href='#'>Voir plus</a>" href="img/products/4/2.png">
+                <img alt="LDLC PC10 Plus Perfect" src="img/products/4/2.png" />
             </a>
-            <p class="product-name">ASUS ROGUE POURRI</p>
-            <p class="product-price">99,99€</p>
-            <a class="see-more-button" href="">
+            <p class="product-name">LDLC PC10 Plus Perfect</p>
+            <p class="product-price">1699,94€</p>
+            <a class="see-more-button" href="products-pages/product-4.php">
                 <p>VOIR PLUS</p>
             </a>
         </div>

@@ -1,7 +1,8 @@
 <footer class="headline">
         <div class="footer-pt-1">
             <div class="footer-pt-1-1">
-                placeholder
+            Lundi-Samedi : 09h30-12h30<br>
+            Lundi-Samedi : 13h30-19h00
             </div>
             <div class="footer-pt-1-2">
                 <p>Simplon-Charleville<br>8 rue Claude Chrétien<br>08000, Charleville-Mézières</p>
