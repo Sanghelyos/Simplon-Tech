@@ -35,6 +35,20 @@ nav {
 .see-more-button p:hover{
     background-color: rgb(175, 3, 3);
 }
+.see-more-button-empty{
+    color: white;
+    text-decoration: none;
+
+}
+.see-more-button-empty p{
+    padding: 10px;
+    background-color: rgb(68, 68, 68);
+    border-radius: 8px;    margin-left: 1em;
+    margin-right: 1em;
+}
+.see-more-button-empty p:hover{
+    cursor: not-allowed;
+}
 .product{
     text-align: center;
 }
